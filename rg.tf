@@ -13,5 +13,5 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "rg" {
     name = "chandanrg1"
-    location = "west japan"
+    location = "westus"
 }
